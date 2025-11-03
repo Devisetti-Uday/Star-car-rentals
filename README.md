@@ -16,7 +16,7 @@ Local email sending support via mail()
 
 Tech Stack:
 
-Frontend: HTML, CSS
+Frontend: HTML, CSS , JS
 Backend: PHP
 Database: MySQL (via XAMPP)
 
