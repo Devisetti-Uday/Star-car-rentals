@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Rentals</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⭐</text></svg>">
+    <link rel="stylesheet" href="style.css"></link>
+</head>
+<body>
+    <div id="container">
+        <div id="left">
+            <img src="images/cars.jpg" alt="cars image" id="car">
+        </div>
+        <div id="right">
+            <form action="cars.php" method="post">
+                <h1>Book your Car</h1>
+                <label>
+                    <span>Start Date</span>
+                    <input type="date" name="sd" id="sd" required>
+                </label>
+                <label>
+                    <span>End Date</span>
+                    <input type="date" name="ed" id="ed" required>
+                </label>
+                <button type="submit" id="btn">Book Now</button>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

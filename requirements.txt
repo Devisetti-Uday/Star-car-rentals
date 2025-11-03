@@ -1,0 +1,12 @@
+
+XAMPP (Apache + MySQL + PHP 8.0 or above)
+
+MySQL Server
+
+mysqli
+mail
+json
+
+SMTP enabled and configured in php.ini
+
+Any modern browser (Chrome, Edge, Firefox, etc.)
