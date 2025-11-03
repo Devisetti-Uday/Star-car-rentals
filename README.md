@@ -4,7 +4,7 @@ Description:
 
 Star Rentals is a simple PHP-based car rental web application.
 Users can check available cars for selected dates, view details (model, seats, price), and book cars.
-
+ 
 Features:
 
 Dynamic car availability based on booking dates
